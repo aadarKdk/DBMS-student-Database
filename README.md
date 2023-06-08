@@ -57,5 +57,5 @@ The DBMS-student-Database project is a practical implementation of a database ma
 ## View all contents of tbl_subjects
 ![tbl_subjects_contents](https://github.com/aadrkdk/DBMS-student-Database/blob/main/screenshots/tbl_subjects_contents.png)
 
-## View all contents of tbl_marks(some data are missing in the screenshots)
+## View all contents of tbl_marks(there are 90 rows: no.of students * no.of subjects)
 ![tbl_marks_contents1](https://github.com/aadrkdk/DBMS-student-Database/blob/main/screenshots/tbl_marks_contents1.png)
