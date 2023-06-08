@@ -49,7 +49,7 @@ The DBMS-student-Database project is a practical implementation of a database ma
 
 ![run_generate_marks](https://github.com/aadrkdk/DBMS-student-Database/blob/main/screenshots/run_generate_marks.png)
 
-
+# Quering tables
 ## View all contents of tbl_students
 ![tbl_students_contents](https://github.com/aadrkdk/DBMS-student-Database/blob/main/screenshots/tbl_students_contents.png)
 
@@ -57,5 +57,20 @@ The DBMS-student-Database project is a practical implementation of a database ma
 ## View all contents of tbl_subjects
 ![tbl_subjects_contents](https://github.com/aadrkdk/DBMS-student-Database/blob/main/screenshots/tbl_subjects_contents.png)
 
-## View all contents of tbl_marks(there are 90 rows: no.of students * no.of subjects)
+## View all contents of tbl_marks(there are 90 rows instances: 15 students * 6 subjects)
 ![tbl_marks_contents1](https://github.com/aadrkdk/DBMS-student-Database/blob/main/screenshots/tbl_marks_contents1.png)
+
+## Some more queries performed along with output's screenshots:
+
+
+![select_age_21](https://github.com/aadrkdk/DBMS-student-Database/blob/main/screenshots/select_age_21.png)
+
+![subject_name](https://github.com/aadrkdk/DBMS-student-Database/blob/main/screenshots/subject_name.png)
+
+![age_21_or_gender_female](https://github.com/aadrkdk/DBMS-student-Database/blob/main/screenshots/age_21_or_gender_female.png)
+
+![age_21_and_gender_female](https://github.com/aadrkdk/DBMS-student-Database/blob/main/screenshots/age_21_and_gender_female.png)
+
+![address_not_ktm](https://github.com/aadrkdk/DBMS-student-Database/blob/main/screenshots/address_not_ktm.png)
+
+![distinct_order_by_address](https://github.com/aadrkdk/DBMS-student-Database/blob/main/screenshots/distinct_order_by_address.png)
