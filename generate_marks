@@ -1,0 +1,5 @@
+-- Generate random marks for all students in all subjects
+INSERT INTO tbl_marks (RollNo, Subject_code, marks)
+SELECT s.RollNo, sub.subject_code, FLOOR(RANDOM() * 101)
+FROM tbl_students s, tbl_subjects sub;
+

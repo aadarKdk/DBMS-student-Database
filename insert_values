@@ -1,0 +1,29 @@
+-- Insert data into tbl_students table
+INSERT INTO tbl_students (RollNo, Name, Address, DOB, Age, Gender, ContactNo)
+VALUES
+  (1, 'Aadarsha Khadka', 'Kathmandu', '2001-11-01', 21, 'Male', '9860397733'),
+  (2, 'Sushma Khadka', 'Kathmandu', '2001-11-01', 21, 'Female', '9860397743'),
+  (3, 'Sushma Rai', 'Pokhara', '1995-09-18', 27, 'Female', '9812345601'),
+  (4, 'Nabin Ghimire', 'Birgunj', '1990-07-08', 32, 'Male', '9845892321'),
+  (5, 'Pratima Shakya', 'Bhaktapur', '1993-12-05', 28, 'Female', '9807614543'),
+  (6, 'Rajendra Bhandari', 'Lalitpur', '1997-02-25', 24, 'Male', '9812789012'),
+  (7, 'Aadarsha Bajracharya', 'Kathmandu', '2000-04-17', 21, 'Male', '9845123098'),
+  (8, 'Nirajan Thapa', 'Pokhara', '1996-11-29', 26, 'Male', '9867123456'),
+  (9, 'Anjana Adhikari', 'Biratnagar', '1992-08-21', 29, 'Female', '9812365412'),
+  (10, 'Manish Shrestha', 'Kathmandu', '1994-03-14', 28, 'Male', '9841526374'),
+  (11, 'Nisha Gurung', 'Butwal', '1999-06-23', 24, 'Female', '9809365741'),
+  (12, 'Ramesh Thapa', 'Dharan', '1991-10-06', 31, 'Male', '9865741239'),
+  (13, 'Sarita Tamang', 'Kathmandu', '1996-01-15', 27, 'Female', '9812456732'),
+  (14, 'Santosh Sharma', 'Birgunj', '1993-07-22', 29, 'Male', '9845761234'),
+  (15, 'Asha Chhetri', 'Pokhara', '1997-04-30', 25, 'Female', '9809834765');
+
+-- Insert data into tbl_subjects table
+INSERT INTO tbl_subjects (subject_name, subject_code)
+VALUES
+  ('Computer organization and Architecture', 'CT 603'),
+  ('Engineering Economics', 'CE 655'),
+  ('Database Management System', 'CT 652'),
+  ('Operating System', 'CT 656'),
+  ('Filter Design', 'EX 704'),
+  ('Computer Networks', 'CT 657');
+
