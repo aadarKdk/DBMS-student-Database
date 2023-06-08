@@ -5,7 +5,6 @@ By doing this project, we aimed to gain practical experience.
 
 The DBMS-student-Database project provides us with a valuable learning experience in database design, creation, SQL query formulation, and database administration. This project equippes us with the necessary skills and knowledge to handle real-world database management challenges effectively.
 
-
 The DBMS-student-Database project is a practical implementation of a database management system using PostgreSQL.
 
 
@@ -19,7 +18,6 @@ The DBMS-student-Database project is a practical implementation of a database ma
 ## Create Database named db_college
 
 ![Create_Database](https://github.com/aadrkdk/DBMS-student-Database/blob/main/screenshots/create_database.png)
-
 
 ## Connect to a PostgreSQL database named "db_college"
 
@@ -57,12 +55,10 @@ The DBMS-student-Database project is a practical implementation of a database ma
 ## View all contents of tbl_subjects
 ![tbl_subjects_contents](https://github.com/aadrkdk/DBMS-student-Database/blob/main/screenshots/tbl_subjects_contents.png)
 
-## View all contents of tbl_marks(there are 90 rows instances: 15 students * 6 subjects)
+## View all contents of tbl_marks(some data are missing in the screenshots)
 ![tbl_marks_contents1](https://github.com/aadrkdk/DBMS-student-Database/blob/main/screenshots/tbl_marks_contents1.png)
 
 ## Some more queries performed along with output's screenshots:
-
-
 ![select_age_21](https://github.com/aadrkdk/DBMS-student-Database/blob/main/screenshots/select_age_21.png)
 
 ![subject_name](https://github.com/aadrkdk/DBMS-student-Database/blob/main/screenshots/subject_name.png)
@@ -74,3 +70,4 @@ The DBMS-student-Database project is a practical implementation of a database ma
 ![address_not_ktm](https://github.com/aadrkdk/DBMS-student-Database/blob/main/screenshots/address_not_ktm.png)
 
 ![distinct_order_by_address](https://github.com/aadrkdk/DBMS-student-Database/blob/main/screenshots/distinct_order_by_address.png)
+
