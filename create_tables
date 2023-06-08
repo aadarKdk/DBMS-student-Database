@@ -1,25 +1,25 @@
 -- Create table named tbl_students
 CREATE TABLE tbl_students (
-  RollNo int PRIMARY KEY NOT NULL,
-  Name varchar(255) NOT NULL,
-  Address varchar(255),
-  DOB date,
-  Age int,
-  Gender varchar(20),
-  ContactNo varchar(10)
+    RollNo int PRIMARY KEY NOT NULL,
+    Name varchar(255) NOT NULL,
+    Address varchar(255),
+    DOB date,
+    Age int,
+    Gender varchar(20),
+    ContactNo varchar(10)
 );
 
 -- Create table named tbl_subjects
 CREATE TABLE tbl_subjects (
-  id SERIAL,
-  subject_name varchar(255),
-  subject_code varchar(10) PRIMARY KEY
+    id SERIAL,
+    subject_name varchar(255),
+    subject_code varchar(10) PRIMARY KEY
 );
 
 -- Create table named tbl_marks
 CREATE TABLE tbl_marks (
-  RollNo int REFERENCES tbl_students(RollNo),
-  Subject_code varchar(10) REFERENCES tbl_subjects(subject_code),
-  marks float
+    RollNo int REFERENCES tbl_students(RollNo),
+    Subject_code varchar(10) REFERENCES tbl_subjects(subject_code),
+    marks float
 );
 
