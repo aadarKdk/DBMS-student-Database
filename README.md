@@ -31,8 +31,18 @@ The DBMS-student-Database project is a practical implementation of a database ma
 ![view_list_of_databases](https://github.com/aadrkdk/DBMS-student-Database/blob/main/screenshots/view_list_of_databases.png)
 
 ## Create 3 tables named tbl_students, tbl_subjects and tbl_marks
-[SQL commands for creating tables in the file ] 
- (https://github.com/aadrkdk/DBMS-student-Database/blob/main/create_tables)
+[SQL commands for creating tables in the file ](https://github.com/aadrkdk/DBMS-student-Database/blob/main/create_tables)
 
 ![run_create_tables](https://github.com/aadrkdk/DBMS-student-Database/blob/main/screenshots/run_create_tables.png)
+
+## List tables
+![list_tables](https://github.com/aadrkdk/DBMS-student-Database/blob/main/screenshots/list_tables.png)
+
+
+## Insert Values in tbl_students and tbl_subjects
+[SQL commands for inserting Values](https://github.com/aadrkdk/DBMS-student-Database/blob/main/insert_values)
+
+## Insert Values in tbl_marks generating random marks
+[SQL commands for generating random marks for tbl_marks](https://github.com/aadrkdk/DBMS-student-Database/blob/main/insert_values)
+
 
