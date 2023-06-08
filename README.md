@@ -45,7 +45,7 @@ The DBMS-student-Database project is a practical implementation of a database ma
 ![run_insert_values](https://github.com/aadrkdk/DBMS-student-Database/blob/main/screenshots/run_insert_values.png)
 
 ## Insert Values in tbl_marks generating random marks
-[SQL commands for generating random marks for tbl_marks](https://github.com/aadrkdk/DBMS-student-Database/blob/main/insert_values)
+[SQL commands for generating random marks for tbl_marks](https://github.com/aadrkdk/DBMS-student-Database/blob/main/generate_marks)
 
 ![run_generate_marks](https://github.com/aadrkdk/DBMS-student-Database/blob/main/screenshots/run_generate_marks.png)
 
