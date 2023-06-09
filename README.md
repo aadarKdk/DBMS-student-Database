@@ -6,14 +6,6 @@ By doing this project, we aimed to gain practical experience.
 The DBMS-student-Database project provides us with a valuable learning experience in database design, creation, SQL query formulation, and database administration. This project equippes us with the necessary skills and knowledge to handle real-world database management challenges effectively.
 
 The DBMS-student-Database project is a practical implementation of a database management system using PostgreSQL.
-
-
-
-
-
-
-
-
 # Lets get Started!
 ## Create Database named db_college
 
@@ -70,4 +62,19 @@ The DBMS-student-Database project is a practical implementation of a database ma
 ![address_not_ktm](https://github.com/aadrkdk/DBMS-student-Database/blob/main/screenshots/address_not_ktm.png)
 
 ![distinct_order_by_address](https://github.com/aadrkdk/DBMS-student-Database/blob/main/screenshots/distinct_order_by_address.png)
+
+![min_age](https://github.com/aadrkdk/DBMS-student-Database/blob/main/screenshots/min_age.png)
+
+![count_females](https://github.com/aadrkdk/DBMS-student-Database/blob/main/screenshots/count_females.png)
+
+![avg_marks](https://github.com/aadrkdk/DBMS-student-Database/blob/main/screenshots/avg_marks.png)
+
+# Using Subqueries for Effective Database Queries
+
+### SQL Subqueries
+[subquery code for quering maximum marks per subject](https://github.com/aadrkdk/DBMS-student-Database/blob/main/subquery_max_marks_per_subject.sql)
+
+![subquery_max_marks_per_sub](https://github.com/aadrkdk/DBMS-student-Database/blob/main/screenshots/subquery_max_marks_per_sub.png)
+
+
 
