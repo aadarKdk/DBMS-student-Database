@@ -72,9 +72,13 @@ The DBMS-student-Database project is a practical implementation of a database ma
 # Using Subqueries for Effective Database Queries
 
 ### SQL Subqueries
+
+[subquery code for quering total marks per student](https://github.com/aadrkdk/DBMS-student-Database/blob/main/get_total_marks_per_student.sql)
+
+![get_total_marks_per_student](https://github.com/aadrkdk/DBMS-student-Database/blob/main/screenshots/get_total_marks_per_student.png)
+
 [subquery code for quering maximum marks per subject](https://github.com/aadrkdk/DBMS-student-Database/blob/main/subquery_max_marks_per_subject.sql)
 
 ![subquery_max_marks_per_sub](https://github.com/aadrkdk/DBMS-student-Database/blob/main/screenshots/subquery_max_marks_per_sub.png)
-
 
 
