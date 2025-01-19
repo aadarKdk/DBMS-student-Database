@@ -1,7 +1,7 @@
 
 # DBMS-student-Database
 The DBMS-student-Database is a database management system project developed as part of the DBMS lab curriculum.\
-By doing this project, we aimed to gain practical experience.
+By doing this project, we aimed to gain practical experience on writing some basic queries.
 
 The DBMS-student-Database project provides us with a valuable learning experience in database design, creation, SQL query formulation, and database administration. This project equippes us with the necessary skills and knowledge to handle real-world database management challenges effectively.
 
